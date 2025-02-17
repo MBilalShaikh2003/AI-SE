@@ -14,3 +14,14 @@ with open("student.txt", "a") as file:
     file.write("Now we are AI students\n")
 
 print("Message appended successfully to 'student.txt'.")
+
+with open("student.txt", "a") as file:
+    file.write("Now we are  students\n")
+
+print("Message appended successfully")
+
+
+
+with open("student.txt", "r") as file:
+    print(file.read())
+
