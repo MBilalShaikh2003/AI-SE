@@ -1,0 +1,1 @@
+start_node = 'A'  # Starting node
